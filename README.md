@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Dave - Command Line Guy...  👋
 
 <!--
 **daverobertson63/daverobertson63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
